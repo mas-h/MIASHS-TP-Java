@@ -1,6 +1,6 @@
 # MIASHS JAVA Travaux Pratiques
 ## Index
-** Derniere MaJ : 21/10/2016
+** Derniere MaJ : 21/10/2016 **  
 - [Utiliser git](#git-use)
 
 <a name="git-use"></a>
